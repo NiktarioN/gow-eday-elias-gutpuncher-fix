@@ -1,0 +1,11 @@
+# DOCS
+docs
+
+# AGENTS
+.claude
+AGENTS.md
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
