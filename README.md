@@ -1,6 +1,6 @@
 # 🎮 Gears of War E-Day. Исправление ошибки elias-gutpuncher
 
-**Скрипт для Steam-версии. Убирает ошибку входа `elias-gutpuncher` и потом возвращает всё как было**
+**Скрипт для Steam-версии игры**
 
 [![Release](https://img.shields.io/github/v/release/NiktarioN/gow-eday-elias-gutpuncher-fix)](https://github.com/NiktarioN/gow-eday-elias-gutpuncher-fix/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -9,7 +9,7 @@
 
 Если Gears of War E-Day в Steam не пускает вас в игру и пишет `elias-gutpuncher`, то одна из причин — российские сертификаты шифрования (ГОСТ), которые ставят КриптоПро, Госуслуги, ФНС и банки. Если дело в них, то скрипт поможет: на время игры он убирает их из списка доверенных сертификатов Windows, а после игры возвращает обратно
 
-Решение нашли игроки в [обсуждении в Steam](https://steamcommunity.com/app/3010850/discussions/0/588439235122634429), подробнее — в разделе [Благодарности](#-благодарности)
+Решение нашли игроки, выложив его в [обсуждении в Steam](https://steamcommunity.com/app/3010850/discussions/0/588439235122634429). Подробнее о них — в разделе [Благодарности](#-благодарности)
 
 > ⚠️ Пока сертификаты убраны, не будут работать ЭЦП, КриптоПро, сайты Госуслуг, ФНС и банков, которым они нужны. Поиграли — верните сертификаты
 
@@ -34,7 +34,7 @@
 
 > 💡 **Не работает ЭЦП после игры?** Запустите `start` и выберите пункт `2`
 
-> 🌐 **Игра всё равно не подключается?** Скорее всего, понадобится ещё включить VPN или использовать Zapret
+> 🌐 **Игра всё равно не подключается к сервисам?** Скорее всего понадобится ещё включить VPN или использовать Zapret
 
 ## 🛡️ Окна при первом запуске
 
@@ -87,18 +87,19 @@ Windows настороженно относится к любым скачанн
 
 ## 🙏 Благодарности
 
-Решение нашли и проверили игроки в [обсуждении в Steam](https://steamcommunity.com/app/3010850/discussions/0/588439235122634429) — спасибо им:
+Огромная благодарность игрокам, которые наши решение и выложили его в [обсуждении в Steam](https://steamcommunity.com/app/3010850/discussions/0/588439235122634429)
 
 - [Some Well](https://steamcommunity.com/profiles/76561199570791324)
 - [In Haruhi We Trust](https://steamcommunity.com/id/nick_zan9t)
 
-Этот скрипт — доработка их идеи
+Этот скрипт — доработка их идей
 
 ## 👤 Автор
 
-[NiktarioN](https://github.com/NiktarioN)
+### NiktarioN
 
-Если скрипт помог — поставьте ⭐️ репозиторию, так его быстрее найдут другие игроки
+- GitHub: [github.com/NiktarioN](https://github.com/NiktarioN)
+- Steam: [NiktarioN](https://steamcommunity.com/id/niktarion)
 
 ## 📄 Лицензия
 
